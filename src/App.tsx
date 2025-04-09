@@ -55,7 +55,7 @@ function App() {
       {/* Hero Section */}
       <div className="relative h-[600px]">
         <img 
-          src="/images/Valorant Gaming Setup.jpg"
+          src="https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/EGS_VALORANT_RiotGames_S1_2560x1440-b7a9ac9bd8164de332a5fc9a2ad73f45"
           alt="Valorant Setup"
           className="w-full h-full object-cover brightness-50"
         />
