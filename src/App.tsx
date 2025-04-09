@@ -55,8 +55,8 @@ function App() {
       {/* Hero Section */}
       <div className="relative h-[600px]">
         <img 
-          src="https://images.unsplash.com/photo-1627240280579-972c9e750d10?auto=format&fit=crop&w=2000&q=80"
-          alt="Valorant Gaming Setup"
+          src="/Valorant Gaming Setup.jpg"
+          alt="Valorant Setup"
           className="w-full h-full object-cover brightness-50"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-[#0f1923] to-transparent" />
@@ -76,7 +76,7 @@ function App() {
             className="bg-[#ff4655] hover:bg-[#ff5864] text-white font-bold py-4 px-8 rounded-lg flex items-center gap-2 transform hover:scale-105 transition-all"
           >
             <Download size={24} />
-            Download Settings
+            Download your hack
           </button>
         </div>
       </div>
