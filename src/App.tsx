@@ -55,7 +55,7 @@ function App() {
       {/* Hero Section */}
       <div className="relative h-[600px]">
         <img 
-          src="/Valorant Gaming Setup.JPG"
+          src="/Valorant Gaming Setup.jpg"
           alt="Valorant Setup"
           className="w-full h-full object-cover brightness-50"
         />
