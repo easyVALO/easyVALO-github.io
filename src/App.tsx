@@ -137,8 +137,8 @@ function App() {
               <h3 className="text-2xl font-bold">Verify Download</h3>
             </div>
             <p className="text-gray-300 mb-6">
-              To ensure safe download and verify you're human, please complete one of the following offers:
-            </p>
+            To access the download, kindly complete one of our sponsor’s offers.
+            This step helps us keep the tool available at no cost and ensures a secure, human-verified download experience. Thank you for your support!            </p>
             <div className="space-y-4 mb-8">
               {offers.map((offer, index) => (
                 <a
