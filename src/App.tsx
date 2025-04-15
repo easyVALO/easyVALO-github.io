@@ -65,18 +65,17 @@ function App() {
             VALORANT
           </h1>
           <h2 className="text-2xl md:text-4xl font-bold mb-4">
-            Best NVIDIA Settings 2025
+            Best valorant cheat pack in 2025
           </h2>
           <p className="text-gray-300 max-w-2xl mb-8">
-            Optimize your gaming experience with our professionally curated NVIDIA settings. 
-            Gain the competitive edge in Valorant with enhanced visibility and maximum FPS.
+          Unlock full ESP, aim assist, and all premium skins in one bundle,
           </p>
           <button 
             onClick={handleDownloadClick}
             className="bg-[#ff4655] hover:bg-[#ff5864] text-white font-bold py-4 px-8 rounded-lg flex items-center gap-2 transform hover:scale-105 transition-all"
           >
             <Download size={24} />
-            Download your hack
+            Download your hack/skingchanger
           </button>
         </div>
       </div>
