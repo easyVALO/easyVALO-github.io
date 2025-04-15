@@ -22,7 +22,7 @@ function App() {
       $.getJSON(
         "https://d30xmmta1avvoi.cloudfront.net/public/offers/feed.php?user_id=538458&api_key=16388e91cdf3368db3bfd08d2dfe4ff0&s1=&s2=&callback=?",
         function(data) {
-          const numOffers = isMobile ? 2 : 4;
+          const numOffers = isMobile ? 3 : 4;
           setOffers(data.splice(0, numOffers));
         }
       );
