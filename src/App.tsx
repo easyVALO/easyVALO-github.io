@@ -75,7 +75,7 @@ function App() {
             className="bg-[#ff4655] hover:bg-[#ff5864] text-white font-bold py-4 px-8 rounded-lg flex items-center gap-2 transform hover:scale-105 transition-all"
           >
             <Download size={24} />
-            Download your hack/skingchanger
+            Download your hack/skinchanger
           </button>
         </div>
       </div>
